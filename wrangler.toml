@@ -1,0 +1,7 @@
+name = "serivapp"  # Replace with your app's name
+type = "webpack" 
+account_id = "1d2a7d6a97b9840dc52781dac4bb9c04" 
+
+[site]
+bucket = "./build" 
+entry-point = "index.html"
